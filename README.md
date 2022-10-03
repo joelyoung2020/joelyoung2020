@@ -1,12 +1,10 @@
-## 👋 Hi there,I'm Joel a Front end developer with 2 years experience.
+## 👋 Hi there,I'm Joel a devops engineer with 2 years experience.
 
 ## About me
-- I'm skilled in using react and bootstrap to create fast, responsive and interactive website
-- I'm currently freelancing on Upwork and looking for job opportunities that will give me a chance to grow work with various developer and learn new technology.
-
-- I really enjoy working with a team, problem solving, debugging and creating new projects
-- 🌱 I never stop learning and wanting to know. I'm currently builidkg as much front end project as I can to expna dmy knowledge on the framework and learning back end development too 
-- 💞️ I’m looking to collaborate on interesting project with various developers
+- I'm a quick learner
+- I'm a good team player
+- 🌱 I never stop learning and getting involved with current hot technologies
+- 💞️ I’m looking to collaborate on interesting project
 
 ## How to reach me
 
@@ -18,14 +16,16 @@
 
 
 ## My skills
-- React
-- Redux
-- Bootstrap
-- Github
+- AWS
 - Git
-- SASS
-- CSS
-- HTML
+- CI/CD tools(Jenkins, AWS code pipeline)
+- Containerization technologies(Docker, Kubernetes, AWS ECR, AWS EKS, AWS ECS fargate)
+- Visualization technologies(Vagrant, Terraform, Cloud formation)
+- Databases(MySql, AWS RDS)
+- Python
+- Ansible
+- Monitoring( Prometheus, Grafana)
+- Linux
 
 
 <!---
