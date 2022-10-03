@@ -8,12 +8,8 @@
 
 ## How to reach me
 
-- Check out my <a href="joelyoung2020.github.io">Portfolio</a>
 - <a href="www.linkedin.com/in/joel-okebugwu-6762b3240">Linkedin</a>
 - Click <a href="mailto:joelokebugwu1998@gmail.com"> here </a> to send me a mail
-
-
-
 
 ## My skills
 - AWS
