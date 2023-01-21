@@ -1,4 +1,4 @@
-## 👋 Hi there,I'm Joel a devops engineer with 2 years experience.
+## 👋 Hi there,I'm Joel a DevOps/AWS Engineer.
 
 ## About me
 - I'm a quick learner
